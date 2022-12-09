@@ -102,7 +102,6 @@
     <a>
         <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Silicon">
         <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Laptop">
-
     </a>
 </div>
 
