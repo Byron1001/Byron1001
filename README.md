@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center"><img src="https://wallpaperaccess.com/full/1614782.jpg" width="100"></div>
+<div id="badge>
+<img src="https://img.shields.io/twitter/url?color=black&label=byron_neaw&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fbyron_neaw" alt="Twitter Badge">
+<img src="https://img.shields.io/twitter/url?color=Black&label=Neaw%20%28Byron%29%20Aik%20Ka&logo=LinkedIn&logoColor=White&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fneaw-aik-ka102802%2F" alt="LinkedIn Badge">
+</div>
