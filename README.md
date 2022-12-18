@@ -118,7 +118,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=byron1001&theme=blue-green" alt="Streak stats">
     </a>
 </div>
-                                                                                                                                                                                                                              ### Hi there 👋
+                                                                                                                                                        ### Hi there 👋
 <div>
     <p>I'm currently studying in data analytics APU Malaysia
         reach me at LinkedIn
@@ -128,6 +128,7 @@
         </a>
         <details>
             <summary>about</summary>
-            <p>sohai</p>
+            <p>De vajaro</p>
+            <img src="./Images/bright-lights-in-urban-street-at-night.jpg" width=100% alt="">
         </details>
 </div>
