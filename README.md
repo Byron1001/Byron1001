@@ -3,7 +3,6 @@
     <p>
         <img src="https://wallpaperaccess.com/full/417693.png" width="100%" height="300px"></p>hello
         <video controls autoplay width="100%">
-            <source src="./Images/Video/Intro.mp4" type="video/mp4">
             <img src="./Images/Video/ezgif.com-gif-maker.gif" alt="intro">
         </video>
     </p>
