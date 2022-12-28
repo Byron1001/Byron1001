@@ -1,9 +1,7 @@
 
 <div>
-    <p>
-        <img src="https://wallpaperaccess.com/full/417693.png" width="100%" height="300px"></p>hello
-            <img src="https://github.com/Byron1001/Byron1001/blob/main/Images/Video/ezgif.com-gif-maker.gif?raw=true" alt="intro">
-    </p>
+    <video width="100%" src="./Images/Video/Intro.mp4" controls loop autoplay>
+    </video>
 </div>
 
 <div id="badge align="center">
