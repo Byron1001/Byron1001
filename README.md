@@ -1,7 +1,6 @@
 
 <div>
     <img src="./Images/Video/Intro video.gif" alt="Intro" width="100%">
-    <img src="./Images/Video/Banner.gif" alt="Banner" width="100%">
 </div>
 
 <div id="badge" align="center">
@@ -108,4 +107,8 @@
             <p style="font-family: Arial, Helvetica, sans-serif;">De vajaro</p>
             <img src="./Images/bright-lights-in-urban-street-at-night.jpg" width=100% alt="">
         </details>
+</div>
+
+<div>
+    <img src="./Images/Video/Banner.gif" alt="Banner">
 </div>
