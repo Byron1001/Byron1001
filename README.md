@@ -26,7 +26,7 @@
         <img src="https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only" alt="">
     -->
 <div>
-    <!--<img src="./Images/Video/Banner.gif" alt="Banner" width="100%">-->
+    <img src="./Images/Video/Banner.gif" alt="Banner" width="100%">
     <h3>Skills</h3>
     <a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
