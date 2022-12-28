@@ -1,6 +1,6 @@
 
 <div>
-    <img src="./Images/Video/Intro video.gif" alt="Intro" width="100%">
+    <!--<img src="./Images/Video/Intro video.gif" alt="Intro" width="100%">-->
 </div>
 
 <div id="badge" align="center">
