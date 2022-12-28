@@ -1,7 +1,7 @@
 
 <div>
     <img src="./Images/Video/Intro video.gif" alt="Intro" width="100%">
-    <h1><a href="./Page.html">Please go to HTML</a></h1>
+    <h1><a href="https://github.com/Byron1001/Byron1001/blob/main/Page.html">Please go to HTML</a></h1>
 </div>
 
 <div id="badge" align="center">
