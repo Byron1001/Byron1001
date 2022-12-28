@@ -2,9 +2,7 @@
 <div>
     <p>
         <img src="https://wallpaperaccess.com/full/417693.png" width="100%" height="300px"></p>hello
-        <video controls autoplay width="100%">
-        <source src="./Images/Video/Intro.mp4" type="video/mp4">
-        </video>
+            <img src="https://github.com/Byron1001/Byron1001/blob/main/Images/Video/ezgif.com-gif-maker.gif?raw=true" alt="intro">
     </p>
 </div>
 
