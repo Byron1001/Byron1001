@@ -1,7 +1,7 @@
 
 <div>
-    <video width="100%" src="https://github.com/Byron1001/Byron1001/blob/main/Images/Video/Intro.mp4" controls loop autoplay>
-    </video>
+    <img src="./Images/Video/Intro video.gif" alt="Intro" width="100%">
+    <img src="./Images/Video/Banner.gif" alt="Banner" width="100%">
 </div>
 
 <div id="badge align="center">
