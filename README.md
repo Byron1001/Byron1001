@@ -1,9 +1,9 @@
 
 <div>
-    <img src="./Images/Video/Intro video.gif" alt="Intro" width="100%">
+    <img src="./Images/Video/ezgif.com-gif-maker.gif" alt="Intro" width="100%">
 </div>
 
-<div id="badge align="center">
+<div id="badge" align="center">
     <br></br>
     <a href="https://twitter.com/byron_neaw">
         <img src="https://img.shields.io/badge/Twitter-blue?color=blue&label=byron_neaw&logo=twitter&style=for-the-badge" alt="Twitter Badge">
@@ -93,8 +93,6 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=byron1001&theme=blue-green" alt="Streak stats">
         <br>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Byron1001&layout=compact&langs_count=8&theme=algolia"/>
-        <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png" alt="">
-        <img src="https://github.com/MasonSlover/MasonSlover/raw/master/output.gif" alt="">
     </a>
 </div>
                                                                                                                                                         ### Hi there 👋
