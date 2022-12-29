@@ -5,6 +5,7 @@
 </div>
 
 <div id="badge" align="center">
+    <img src="./Images/Video/Banner.gif" alt="Banner" width="100%">
     <h1 id="getInTouch" align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" >Get in Touch with me</h1>
     <br></br>
     <a href="https://twitter.com/byron_neaw">
@@ -29,7 +30,6 @@
     -->
 <div>
     <br>
-    <img src="./Images/Video/Banner.gif" alt="Banner" width="100%">
     <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" >Skills</h1>
     <a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
