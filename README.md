@@ -82,7 +82,7 @@
     </a>
 </div>
 
-<div><img src="./Images/Video/Banner.gif" alt="Banner" width="100%"></div>
+<div><img src="./Images/Video/bann.gif" alt="Banner" width="100%"></div>
 
 <div align="center">
     <br></br>
