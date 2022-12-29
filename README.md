@@ -5,7 +5,6 @@
 </div>
 
 <div id="badge" align="center">
-    <img src="./Images/Video/Banner.gif" alt="Banner" width="100%">
     <h1 id="getInTouch" align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" >Get in Touch with me</h1>
     <br></br>
     <a href="https://twitter.com/byron_neaw">
@@ -82,6 +81,8 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </a>
 </div>
+
+<div><img src="./Images/Video/Banner.gif" alt="Banner" width="100%"></div>
 
 <div align="center">
     <br></br>
