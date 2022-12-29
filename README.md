@@ -113,8 +113,6 @@
         </details>
         <h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-color:lightgray;padding:40px">「 EXPLORE, CHALLENGE and be a better self. 」</h1>
     </p>
-    <img src="./Images/Video/Contactgif.gif" alt="Contact" width="100%">
-    <video src="./Images/Video/How To Swim Butterfly - Technique For Butterfly Swimming.mp4" controls loop play width="100%"></video>
-    </details>
+    <img src="./Images/Video/ezgif.com-gif-maker.gif" alt="Contact" width="100%">
 </div>
 </body>
