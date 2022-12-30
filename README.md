@@ -102,7 +102,7 @@
         Hola! I'm currently studying in <a href="https://new.apu.edu.my">Asia Pacific University of Technology & Innovation of Malaysia</a>.I keep exploring in IT world which changes drastically every second, learning through online resources, workshops, analytics club, and Google Student Developer club activities. I like to work with people. With everyones creativity, imagination, and contribution, we are able to come up with something interesting and demanded by the market. I always challenge myself and break my limits to come up with outstanding ideas. Along this way, I found that data-driven enables us to make brilliant decisions. Hence, I choose data analysis as my major. Life is a huge party, I will continue exploring my life in the crowd and improving myself. <br><br>
         If you are interested in hiring me😆😆, Please reach me at <a href="#getInTouch">LinkedIn</a>!
         <br><br><br>
-        <p style="font-size: 24px;background-color:lightgray;padding:20px;"><b>Activities</b></p>
+        <p style="font-size: 36px;background-color:lightgray;padding:20px;"><b>Activities</b></p>
         <details>
             <summary>APU Data Science Week 2022</summary>
             <br><br>
@@ -110,8 +110,8 @@
             <b style="background-color:light-gray;">Hybrid Cloud - Modern Data Analytics Solution</b><br><br>
             <img src="./Images/DataSclogo.png" alt="DataSc Week" width="50%">
             <img src="./Images/1669435867187.png" alt="Talk by MeiYi Tan" width="50%">
-            </a><br><br>
-        </details>
+            </a>
+        </details><br><br>
         <h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-color:lightgray;padding:40px">「 EXPLORE, CHALLENGE and be a better self. 」</h1>
     </p>
     <img src="./Images/Video/ezgif.com-gif-maker.gif" alt="Contact" width="100%">
