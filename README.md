@@ -19,9 +19,6 @@
     <a>
         <img src="https://komarev.com/ghpvc/?username=byron1001&style=for-the-badge&color=green" alt="View counter">
     </a>
-    <a>
-        <img src="https://badge.fury.io/gh/byron1001%2FStrapDown.js.svg" alt="GitHub version">
-    </a>
 </div>
 
 <!--<img src="https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only" alt="">
