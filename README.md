@@ -110,7 +110,7 @@
             <b style="background-color:light-gray;">Hybrid Cloud - Modern Data Analytics Solution</b><br><br>
             <img src="./Images/DataSclogo.png" alt="DataSc Week" width="50%">
             <img src="./Images/1669435867187.png" alt="Talk by MeiYi Tan" width="50%">
-            </a>
+            </a><br><br>
         </details>
         <h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background-color:lightgray;padding:40px">「 EXPLORE, CHALLENGE and be a better self. 」</h1>
     </p>
