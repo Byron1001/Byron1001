@@ -85,8 +85,8 @@
     <br></br>
     <a>
         <img src="https://github-profile-trophy.vercel.app/?username=byron1001&row=1" alt="Trophy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron1001&theme=blue-green" alt="Most used Languages">
-        <img src="https://github-readme-stats.vercel.app/api?username=byron1001&show_icons=true&bg_color=00000000" alt="GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron1001&theme=tokyonight" alt="Most used Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=byron1001&show_icons=true&theme=tokyonight" alt="GitHub stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=byron1001&theme=blue-green" alt="Streak stats">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Byron1001&layout=compact&langs_count=8&theme=algolia"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byron1001&theme=github" alt="graph">
