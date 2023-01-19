@@ -85,7 +85,7 @@
     <br></br>
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=byron1001&show_icons=true&theme=tokyonight" alt="GitHub stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=byron1001&theme=tokyonight" alt="Streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=byron1001&theme=solarized-dark&date_format=j%20M%5B%20Y%5D" alt="Streak stats">
         <br>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron1001&theme=algolia&layout=compact" alt="graph">
     </a>
