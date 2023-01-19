@@ -93,7 +93,7 @@
     <details open>
         <summary align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 22px;" ><b>About Me</b></summary>
     <p align="center" style="font-family: Arial, Helvetica, sans-serif;" style="font-size: 22px;" >
-        ### Hi there 👋
+        ###👋
         Hola! I'm currently studying in <a href="https://new.apu.edu.my">Asia Pacific University of Technology & Innovation of Malaysia</a>.I keep exploring in IT world which changes drastically every second, learning through online resources, workshops, analytics club, and Google Student Developer club activities. I like to work with people. With everyones creativity, imagination, and contribution, we are able to come up with something interesting and demanded by the market. I always challenge myself and break my limits to come up with outstanding ideas. Along this way, I found that data-driven enables us to make brilliant decisions. Hence, I choose data analysis as my major. Life is a huge party, I will continue exploring my life in the crowd and improving myself. <br><br>
         If you are interested in hiring me😆😆, Please reach me at <a href="#getInTouch">LinkedIn</a>!
         <br><br><br>
