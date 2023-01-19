@@ -89,7 +89,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=byron1001&show_icons=true&theme=tokyonight" alt="GitHub stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=byron1001&theme=blue-green" alt="Streak stats">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Byron1001&layout=compact&langs_count=8&theme=algolia"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron1001&theme=tokyonight" alt="graph">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron1001&theme=tokyonight&layout=compact" alt="graph">
     </a>
     <br><br>
     <details open>
